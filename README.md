@@ -1,5 +1,5 @@
 # dns_client
-DNS Client for making A and NS queries in UDP mode to a remote server. It was the final project for the subject "Redes de ordenadores" (computer networks) in my Bachelor's Degree "Grao en Enxeñaría en Tecnoloxías de Telecomunicación" in Universidade de Vigo in year 2018.
+DNS Client implemented in Java for making A and NS queries in UDP mode to a remote server. It was the final project for the subject "Redes de ordenadores" (computer networks) in my Bachelor's Degree "Grao en Enxeñaría en Tecnoloxías de Telecomunicación" in Universidade de Vigo in year 2018.
 
 Main class is Dnsclient.java
 The program arguments are : 
